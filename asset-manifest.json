@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/mohdtalha506/portfolio.git/static/css/main.e30793e3.css",
-    "main.js": "/mohdtalha506/portfolio.git/static/js/main.3b194ed9.js",
-    "static/js/415.4d6acbeb.chunk.js": "/mohdtalha506/portfolio.git/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/mohdtalha506/portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/mohdtalha506/portfolio.git/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/mohdtalha506/portfolio.git/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/Mohammad_Talha_Resume.pdf": "/mohdtalha506/portfolio.git/static/media/Mohammad_Talha_Resume.86bd98861fef20d9fbdf.pdf",
-    "static/media/codeEditor.png": "/mohdtalha506/portfolio.git/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/talha_pic.png": "/mohdtalha506/portfolio.git/static/media/talha_pic.2328059f0e790b7724ce.png",
-    "static/media/blog.png": "/mohdtalha506/portfolio.git/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/connectnow.png": "/mohdtalha506/portfolio.git/static/media/connectnow.96157853404426069ca6.png",
-    "static/media/Chat App.png": "/mohdtalha506/portfolio.git/static/media/Chat App.479c9e85ba0f15cfc772.png",
-    "static/media/Programming-amico.svg": "/mohdtalha506/portfolio.git/static/media/Programming-amico.b608bf9b405a3d4aa11b9183373915f4.svg",
-    "static/media/home-bg.jpg": "/mohdtalha506/portfolio.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Work time-rafiki.svg": "/mohdtalha506/portfolio.git/static/media/Work time-rafiki.6f6541dfc814febfdf09d5524ef4430e.svg",
-    "static/media/pre.svg": "/mohdtalha506/portfolio.git/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/mohdtalha506/portfolio.git/index.html",
-    "main.e30793e3.css.map": "/mohdtalha506/portfolio.git/static/css/main.e30793e3.css.map",
-    "main.3b194ed9.js.map": "/mohdtalha506/portfolio.git/static/js/main.3b194ed9.js.map",
-    "415.4d6acbeb.chunk.js.map": "/mohdtalha506/portfolio.git/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/mohdtalha506/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.74883b0a.css",
+    "main.js": "/portfolio/static/js/main.234bf01a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/Mohammad_Talha_Resume.pdf": "/portfolio/static/media/Mohammad_Talha_Resume.86bd98861fef20d9fbdf.pdf",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/talha_pic.png": "/portfolio/static/media/talha_pic.2328059f0e790b7724ce.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/connectnow.png": "/portfolio/static/media/connectnow.96157853404426069ca6.png",
+    "static/media/Chat App.png": "/portfolio/static/media/Chat App.479c9e85ba0f15cfc772.png",
+    "static/media/Programming-amico.svg": "/portfolio/static/media/Programming-amico.b608bf9b405a3d4aa11b9183373915f4.svg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Work time-rafiki.svg": "/portfolio/static/media/Work time-rafiki.6f6541dfc814febfdf09d5524ef4430e.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.74883b0a.css.map": "/portfolio/static/css/main.74883b0a.css.map",
+    "main.234bf01a.js.map": "/portfolio/static/js/main.234bf01a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e30793e3.css",
-    "static/js/main.3b194ed9.js"
+    "static/css/main.74883b0a.css",
+    "static/js/main.234bf01a.js"
   ]
 }
